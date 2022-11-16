@@ -1,0 +1,15 @@
+{
+    "Postgre": {
+      "dbConfig": {
+        "host": "localhost",
+        "username":"postgres",
+        "pass":"sample11",
+        "port": 5432,
+        "dbName": "sie_desarrollo2"
+      },
+      "credit": {
+        "initialLimit": 100,
+        "initialDays": 1
+      }
+    }
+  }
